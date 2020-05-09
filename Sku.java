@@ -7,4 +7,7 @@ public class Sku{
    public Long getTitle(){
     return this.title;
   }
+   public Long getprice(){
+    return this.price;
+  }
 }
