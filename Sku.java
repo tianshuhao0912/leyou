@@ -3,4 +3,8 @@ public class Sku{
    private String title;
    private Long price;
    private String images;
+
+   public Long getTitle(){
+    return this.title;
+  }
 }
